@@ -1,0 +1,19 @@
+---
+author: jagira
+date: '2011-02-17 09:07:00'
+layout: post
+slug: google-1
+status: publish
+title: Google +1 ?
+wordpress_id: '60'
+tags:
+- internet
+---
+
+
+![Google+1](/img/posts/archives/google-1/google_1.png)
+
+Now I have to click twice to logout.
+
+
+

@@ -1,0 +1,35 @@
+---
+author: jagira
+date: '2010-04-14 14:47:00'
+layout: post
+slug: howdy
+status: publish
+title: Howdy!!!
+tags:
+- self
+---
+
+Howdy,
+
+Welcome to my site. For those who do not know me \[99.99999 % of the
+world\], I am a coder \[in making\], a hardware tinkerer (rendered two
+computers useless) and a Linux enthusiast. I am currently working
+as an Information Security Consultant and learning Ruby on Rails in
+my free time.
+
+I have developed an application in PHP,
+[Newzupp](http://www.newzupp.com), which was selected as "Mashup of
+The Day" for 12/04/10 by
+[ProgrammableWeb](http://www.programmableweb.com). It simply pulls
+out popular stories from major social networks \[Digg, Tweetmeme,
+Reddit, Delicious and Friendfeed\] and ranks them according to their
+total popularity. By covering major social networks, it represents
+larger portion of net users. Hence Newzupp offers news in more
+democratic manner.
+
+I am trying to develop a "No BS" and more meaningful information
+sharing network. I will be using this site to communicate my ideas
+and get feedback.
+
+
+

@@ -1,0 +1,5 @@
+pygments: true
+relative_permalinks: false
+permalink: /blog/:year/:month/:day/:title/
+google_analytics_id: UA-12726609-8
+

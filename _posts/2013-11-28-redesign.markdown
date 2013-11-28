@@ -1,0 +1,23 @@
+---
+author: jagira
+date: '2013-11-28'
+layout: post
+title: Redesign
+---
+
+It has been over a year since my last post and the last redesign.
+Previous design was based on Bootstrap but the markup felt quite hackish
+and I wished to create a clean design template for my blog.
+
+This design is partly copied and partly inspired from [Jekyll's
+site](http://jekyllrb.com). The design is responsive and renders nicely
+on my Nexus 7 and Nexus 4 devices.
+
+Since my last post, I have joined a gym and started lifting weights,
+started investing in equities (made some decent returns), joined
+cycling / swimming / running clubs and become a member of library. I
+wish I can get disciplined about writing so that I can write about some
+of these stuff.
+
+
+
