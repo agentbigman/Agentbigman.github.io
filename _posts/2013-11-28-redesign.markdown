@@ -5,7 +5,8 @@ layout: post
 title: Redesign
 ---
 
-It has been over a year since my last post and the last redesign.
+It has been over a year since [my last post and the last site
+redesign](/archives).
 Previous design was based on Bootstrap but the markup felt quite hackish
 and I wished to create a clean design template for my blog.
 
