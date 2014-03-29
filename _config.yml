@@ -1,5 +1,25 @@
-pygments: true
-relative_permalinks: false
-permalink: /blog/:year/:month/:day/:title/
-google_analytics_id: UA-12726609-8
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Jigar Patel
+#tagline:          'Personal blog'
+description:      "A twenty-something engineer who is building an ed-tech application. Interested in powerlifting, value investing, volleyball, travelling and mechanics."
+
+url:              http://jigarpatel.in
+
+author:
+  name:           'Jigar Patel'
+  url:            https://twitter.com/jagira
+
+paginate:         3
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/jagira.github.com

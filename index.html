@@ -1,43 +1,39 @@
 ---
-layout: home
-title: Jigar Patel - JAP
-overview: true
+layout: default
+title: Home
 ---
 
-<section class="hero">
-  <div class="grid">
-    <div class="unit whole">
-      <div class="grid pane">
-        <div class="unit whole center-on-mobiles">
-          <div class="pane-content">
-            <h2 class="center-on-mobiles"><strong>Jigar Patel</h2>
-            <p>I am a twenty-something engineer who is building an <a
-                href="http://quizpro.in" target="_blank">ed-tech
-                application</a>. Recently, I've become interested in
-            powerlifting and value investing. Although, I am too lazy
-            write blog posts, I will try to maintain a journal <a
-                href="/blog">here</a>.
-            </p>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-            <p>In my free time, I play Volleyball & Cricket, <a
-                href="/projects">hack my
-            Arduino kit or some code</a>, or go on <a
-                href="http://en.wikipedia.org/wiki/Royal_Enfield_Bullet"
-                target="_blank">bike</a> trips.
-            </p>
-            <p><a href="/blog">Blog</a> | <a
-                href="/projects">Projects</a> | <a
-                href="/resume">Resume</a> | <a href="/archives">Archives</a> | <a
-                href="https://github.com/jagira" target="_blank">Github</a> | <a
-                href="https://bitbucket.com/jagira" target="_blank">Bitbucket</a> | <a
-                href="https://twitter.com/jagira"
-                target="_blank">Twitter</a> | <a>jagira [at]
-                gmail.com</a> | <a href="/feed.xml">RSS</a>
-            </p>
-           </div>
-        </div>
-        <div class="clear"></div>
-      </div>
-    </div>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
   </div>
-</section>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+
+
