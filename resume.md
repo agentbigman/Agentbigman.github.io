@@ -81,7 +81,7 @@ I worked as an SAP consultant on a large SAP implementation for Ericsson.
 
 -------------------
 
-##National Institute of Technology, Surat 
+###National Institute of Technology, Surat 
 
 _2004 - 2008_
 
