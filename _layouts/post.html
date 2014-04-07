@@ -1,27 +1,25 @@
 ---
-layout: news
+layout: default
 ---
 
-<article>
-  <h2>
-    {{ page.title }}
-    <a href="{{ page.url }}" class="permalink" title="Permalink">∞</a>
-  </h2>
-  <!--<span class="post-category">
-    {% for category in page.categories %}
-    <span class="label">{{ category }}</span>
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
     {% endfor %}
-</span>-->
-  <div class="post-meta">
-    <span class="post-date">
-      {{ page.date | date_to_string }}
-    </span>
-    <a href="https://github.com/{{ page.author }}" class="post-author">
-      <img src="https://github.com/{{ page.author }}.png" class="avatar" />
-      {{ page.author }}
-    </a>
-  </div>
-  <p class="post-content">
-    {{ content }}
-  </p>
-</article>
+  </ul>
+</div>
