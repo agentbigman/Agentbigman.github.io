@@ -10,6 +10,11 @@ tags:
 - politics
 ---
 
+<p class="message">
+    [My arguments against some features of Jan Lokpal bill promoted by
+    IAC.](http://en.wikipedia.org/wiki/Lokpal#Features_of_the_Jan_Lokpal_Bill)
+</p>
+
 >But won't the government appoint corrupt and weak people as Lokpal members? That won't be possible because its members will be selected by judges, citizens and constitutional authorities and not by politicians, through a completely transparent and participatory process.
 
 *Jan Lokpal will be elected by Judges, Citizens and Constitutional
