@@ -16,7 +16,7 @@ author:
   name:           'Jigar Patel'
   url:            https://twitter.com/jagira
 
-paginate:         3
+paginate:         5
 
 # Custom vars
 version:          1.0.0
