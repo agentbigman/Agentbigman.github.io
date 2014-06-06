@@ -2,7 +2,7 @@
 author: jagira
 date: '2014-06-06'
 layout: post
-title: Evolution of Cricket Video Games [1996-2014]
+title: Evolution of Cricket Video Games
 ---
 
 <div class="videowrapper">
