@@ -38,15 +38,15 @@ Tweeting about it, you used to think over it. When you had nothing to do, you
 looked at your surroundings or talked to strangers or just did nothing instead
 of staring at your smartphone screen scrolling through your Twitter timeline.
 
-When I compare today with my high school days, it feels that I have become a 
-narcissistic droid. I am bombarded with crap disguised as
-news and articles in real time. I have way shorter attention span and I can't
-focus for long hours.
-When someone shares a joke with me, instead of laughing I am like "Meh! 
-I've read it!". When I see an article or a post, my first instinct is to share
-it. I used to read an entire magazine in a single sitting, and now I can not even read
-an article without taking multiple breaks or without switching through multiple
-tabs on browser.
+When I compare today with my high school days, it feels that I have
+become a narcissistic droid. When I see an article or a post, my first
+instinct is to share it. I am bombarded with crap disguised as news and
+articles in real time. I have way shorter attention span and I can't
+focus for long hours. I used to read an entire magazine in a single
+sitting, and now I can not even read an article without taking multiple
+breaks or without switching through multiple tabs on browser. When
+someone shares a joke with me, instead of laughing I am like "Meh! I've
+read it!".
 
 When engineers see a broken thing, they try to fix it. I too will try to fix my
 life and it begins today. I have laid out some rules that I will try to follow.
