@@ -10,6 +10,9 @@ tags:
 - chrome
 - google
 - internet
+redirect_from:
+    - /learning-from-chrome-ux-1/
+    - /blog/2011/03/23/learning-from-chrome-ux-1/
 ---
 
 

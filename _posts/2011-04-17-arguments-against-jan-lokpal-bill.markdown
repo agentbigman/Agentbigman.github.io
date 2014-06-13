@@ -8,6 +8,9 @@ title: Arguments against Jan Lokpal bill
 wordpress_id: '34'
 tags:
 - politics
+redirect_from:
+    - /arguments-against-jan-lokpal-bill/
+    - /blog/2011/04/17/arguments-against-jan-lokpal-bill/
 ---
 
 <p class="message">

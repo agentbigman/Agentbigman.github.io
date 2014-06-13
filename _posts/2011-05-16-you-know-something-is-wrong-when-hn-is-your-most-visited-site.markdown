@@ -9,6 +9,9 @@ wordpress_id: '29'
 tags:
 - random
 - personal
+redirect_from:
+    - /you-know-something-is-wrong-when-hn-is-your-most-visited-site/
+    - /blog/2011/05/16/you-know-something-is-wrong-when-hn-is-your-most-visited-site/
 ---
 
 

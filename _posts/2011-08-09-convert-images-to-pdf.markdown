@@ -8,6 +8,9 @@ title: Convert Images to PDF
 wordpress_id: '217'
 tags:
 - ruby
+redirect_from:
+    - /convert-images-to-pdf/
+    - /blog/2011/08/09/convert-images-to-pdf/
 ---
 
 Install ImageMagick and run

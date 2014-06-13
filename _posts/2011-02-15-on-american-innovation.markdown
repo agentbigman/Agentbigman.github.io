@@ -9,6 +9,9 @@ wordpress_id: '61'
 tags:
 - thoughts
 - IBM
+redirect_from:
+    - /on-american-innovation/
+    - /blog/2011/02/15/on-american-innovation/
 ---
 
 >At a time when many young entrepreneurs, venture capitalists, and

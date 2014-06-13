@@ -10,6 +10,9 @@ tags:
 - devops
 - programming
 - mysql
+redirect_from:
+    - /mysql-too-many-connections-error/
+    - /blog/2011/06/15/mysql-too-many-connections-error/
 ---
 
 "Too many connections" error means that all available connections

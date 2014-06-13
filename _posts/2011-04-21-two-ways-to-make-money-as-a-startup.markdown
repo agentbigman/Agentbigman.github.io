@@ -8,6 +8,9 @@ title: Two Ways to Make Money as a startup
 wordpress_id: '32'
 tags:
 - thoughts
+redirect_from:
+    - /two-ways-to-make-money-as-a-startup/
+    - /blog/2011/04/21/two-ways-to-make-money-as-a-startup/
 ---
 
 >There are basically two ways to be financially successful as a

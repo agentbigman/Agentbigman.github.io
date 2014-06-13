@@ -9,6 +9,9 @@ wordpress_id: '47'
 tags:
 - thoughts
 - apple
+redirect_from:
+    - /on-apples-30-cut/
+    - /blog/2011/03/03/on-apples-30-cut/
 ---
 
 >The other factor here is the idea of who “deserves” credit for bringing a customer to a purchase. As Apple said in its announcement, “when Apple brings a new subscriber to the app, Apple earns a 30 percent share.” And if someone discovers Tiny Wings (great game!) in the App Store rankings and downloads it, I think Apple’s certainly earned its 30 percent.

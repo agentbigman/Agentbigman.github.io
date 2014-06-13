@@ -6,7 +6,10 @@ slug: application-security-1-artificial-scarcity-using-dos-attack
 status: publish
 title: 'Application Security #1 - Artificial Scarcity Using DoS Attack'
 tags:
-- security
+- Security
+redirect_from:
+    - /application-security-1-artificial-scarcity-using-dos-attack/
+    - /blog/2010/07/22/application-security-1-artificial-scarcity-using-dos-attack/
 ---
 
 Most E-Commerce or online booking websites lock the item/product

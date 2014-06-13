@@ -8,6 +8,9 @@ title: Methods We Don't Use - 'dup'
 tags:
 - programming
 - ruby
+redirect_from:
+    - /methods-we-dont-use-dup/
+    - /blog/2010/10/11/methods-we-dont-use-dup/
 ---
 
 There are plenty of methods defined in Rails framework, which we do

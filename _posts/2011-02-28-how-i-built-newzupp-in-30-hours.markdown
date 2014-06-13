@@ -10,6 +10,9 @@ tags:
 - programming
 - ruby
 - pet project
+redirect_from:
+    - /how-i-built-newzupp-in-30-hours/
+    - /blog/2011/02/28/how-i-built-newzupp-in-30-hours/
 ---
 
 Today, I deployed the tested and stable version of

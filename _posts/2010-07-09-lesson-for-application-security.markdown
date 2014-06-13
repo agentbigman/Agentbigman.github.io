@@ -7,6 +7,9 @@ status: publish
 title: Lesson for Application Security
 tags:
 - security
+redirect_from:
+    - /lesson-for-application-security/
+    - /blog/2010/07/09/lesson-for-application-security/
 ---
 
 

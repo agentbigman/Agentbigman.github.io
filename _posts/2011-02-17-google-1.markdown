@@ -8,6 +8,9 @@ title: Google +1 ?
 wordpress_id: '60'
 tags:
 - internet
+redirect_from:
+    - /google-1/
+    - /blog/2011/02/17/google-1/
 ---
 
 

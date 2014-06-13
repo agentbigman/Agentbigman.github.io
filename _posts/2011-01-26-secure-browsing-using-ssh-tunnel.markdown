@@ -8,6 +8,9 @@ title: Secure Browsing using SSH Tunnel
 wordpress_id: '63'
 tags:
 - howto
+redirect_from:
+    - /secure-browsing-using-ssh-tunnel/
+    - /blog/2011/01/26/secure-browsing-using-ssh-tunnel/
 ---
 
 ***SSH*** (Secure Shell) is a network protocol which allows secure

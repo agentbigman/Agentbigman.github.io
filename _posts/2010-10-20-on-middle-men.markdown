@@ -8,6 +8,9 @@ title: On Middle Men
 wordpress_id: '76'
 tags:
 - thoughts
+redirect_from:
+    - /on-middle-men/
+    - /blog/2010/10/20/on-middle-men/
 ---
 
 >Middle men exist to reduce the cost of getting a product from A to

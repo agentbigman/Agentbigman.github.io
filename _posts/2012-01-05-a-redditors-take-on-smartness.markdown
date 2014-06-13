@@ -7,6 +7,9 @@ comments: true
 tags:
 - thoughts
 - philosophy
+redirect_from:
+    - /a-redditors-take-on-smartness/
+    - /blog/2012/01/05/a-redditors-take-on-smartness/
 ---
 <em>A response from Reddit user <a
 href="http://www.reddit.com/r/confession/comments/nxdzz/im_not_as_smart_as_i_thought_i_was/c3d91jl">Inri137</a></em>

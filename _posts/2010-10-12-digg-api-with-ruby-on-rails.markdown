@@ -9,6 +9,9 @@ wordpress_id: '79'
 tags:
 - programming
 - ruby
+redirect_from:
+    - /digg-api-with-ruby-on-rails/
+    - /blog/2010/10/12/digg-api-with-ruby-on-rails/
 ---
 
 [Digg](http://digg.com) is a social news site which made the

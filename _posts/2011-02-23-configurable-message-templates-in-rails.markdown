@@ -9,6 +9,9 @@ wordpress_id: '59'
 tags:
 - programming
 - ruby
+redirect_from:
+    - /configurable-message-templates-in-rails/
+    - /blog/2011/02/23/configurable-message-templates-in-rails/
 ---
 
 Modifying erb templates for small messages is not maintainable when

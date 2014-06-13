@@ -9,6 +9,9 @@ wordpress_id: '78'
 tags:
 - networking
 - security
+redirect_from:
+    - /list-of-all-port-numbers/
+    - /blog/2010/10/13/list-of-all-port-numbers/
 ---
 
 [IANA](http://www.iana.org/) maintains a list of all the port

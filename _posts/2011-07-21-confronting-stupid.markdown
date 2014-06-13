@@ -8,6 +8,9 @@ title: Confronting Stupid
 wordpress_id: '207'
 tags:
 - thoughts
+redirect_from:
+    - /confronting-stupid/
+    - /blog/2011/07/21/confronting-stupid/
 ---
 
 > Some gigs are process oriented: Set up a process correctly and the

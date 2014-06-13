@@ -9,6 +9,9 @@ wordpress_id: '87'
 tags:
 - programming
 - ruby
+redirect_from:
+    - /methods-we-dont-use-attribute_present/
+    - /blog/2010/10/12/methods-we-dont-use-attribute_present/
 ---
 
 We usually check the value of an attribute by using

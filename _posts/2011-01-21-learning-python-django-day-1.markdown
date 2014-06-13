@@ -9,6 +9,9 @@ wordpress_id: '72'
 tags:
 - self
 - python
+redirect_from:
+    - /learning-python-django-day-1/
+    - /blog/2011/01/21/learning-python-django-day-1/
 ---
 
 Day 1 observations -

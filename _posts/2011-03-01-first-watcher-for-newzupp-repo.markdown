@@ -8,6 +8,9 @@ title: First watcher for Newzupp repo :-)
 wordpress_id: '55'
 tags:
 - pet project
+redirect_from:
+    - /first-watcher-for-newzupp-repo/
+    - /blog/2011/03/01/first-watcher-for-newzupp-repo/
 ---
 
 

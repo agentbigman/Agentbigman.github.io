@@ -9,6 +9,9 @@ wordpress_id: '30'
 tags:
 - amazon
 - business
+redirect_from:
+    - /amazon-com-the-hidden-empire/
+    - /blog/2011/05/12/amazon-com-the-hidden-empire/
 ---
 
 <div style="width:510px" id="__ss_7928875"> 

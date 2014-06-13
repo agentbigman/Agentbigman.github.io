@@ -9,6 +9,9 @@ wordpress_id: '64'
 tags:
 - security
 - facebook
+redirect_from:
+    - /what-happens-when-you-open-your-facebook-account-from-other-country/
+    - /blog/2011/01/24/what-happens-when-you-open-your-facebook-account-from-other-country/
 ---
 
 I created an SSH tunnel \[server located in USA\], used that tunnel

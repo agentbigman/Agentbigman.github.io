@@ -8,6 +8,9 @@ title: How to build a good EMR?
 wordpress_id: '45'
 tags:
 - thoughts
+redirect_from:
+    - /how-to-build-a-good-emr/
+    - /blog/2011/03/28/how-to-build-a-good-emr/
 ---
 
 >There is an inherent gap between how engineers think and how

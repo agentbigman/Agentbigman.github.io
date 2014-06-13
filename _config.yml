@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -23,3 +23,7 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/jagira.github.com
+
+# Gems
+gems:
+  - jekyll-redirect-from

@@ -7,6 +7,9 @@ status: publish
 title: Howdy!!!
 tags:
 - self
+redirect_from:
+  - /howdy/
+  - /blog/2010/04/14/howdy/
 ---
 
 Howdy,

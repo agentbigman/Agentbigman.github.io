@@ -8,6 +8,9 @@ title: On programming
 wordpress_id: '75'
 tags:
 - programming
+redirect_from:
+    - /on-programming/
+    - /blog/2010/12/03/on-programming/
 ---
 
 >Learning to program used to be an inevitable consequence of using

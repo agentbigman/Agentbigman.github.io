@@ -7,7 +7,10 @@ status: publish
 title: Private or Protected? Use Private!!!
 tags:
 - programming
-- ruby
+- Ruby
+redirect_from:
+    - /private-or-protected-use-private/
+    - /blog/2010/07/29/private-or-protected-use-private/
 ---
 
 >Ruby has a closely related keyword called **protected** that

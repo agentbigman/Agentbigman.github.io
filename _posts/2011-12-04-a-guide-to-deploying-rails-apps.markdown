@@ -7,6 +7,9 @@ comments: true
 tags:
 - devops
 - ruby
+redirect_from:
+    - /a-guide-to-deploying-rails-apps/
+    - /blog/2011/12/04/a-guide-to-deploying-rails-apps/
 ---
 
 Note _This is not a definitive guide or a tutorial. I have simply collected all my notes related to deployment and compiled them into a blog post. Please check the documentation of the tools/apps mentioned here._

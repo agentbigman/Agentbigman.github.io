@@ -8,6 +8,9 @@ title: 'Daniel Pink @TED : Science of Motivation'
 wordpress_id: '110'
 tags:
 - science
+redirect_from:
+  - /daniel-pink-ted-science-of-motivation/
+  - /blog/2010/06/02/daniel-pink-ted-science-of-motivation/
 ---
 
 <object width="560" height="315"><param name="movie"

@@ -7,6 +7,9 @@ status: publish
 title: So very true...
 tags:
 - thoughts
+redirect_from:
+  - /so-very-true/
+  - /blog/2010/06/03/so-very-true/
 ---
 
 "There are thoughts which are prayers. There are moments when,

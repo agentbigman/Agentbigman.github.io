@@ -7,6 +7,9 @@ status: publish
 title: My Thoughts on Internet Censorship
 tags:
 - thoughts
+redirect_from:
+  - /my-thoughts-on-internet-censorship/
+  - /blog/2010/04/22/my-thoughts-on-internet-censorship/
 ---
 
 Nobody questions Google’s decision of not complying to Chinese

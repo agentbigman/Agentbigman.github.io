@@ -8,6 +8,9 @@ title: Reddit API with Ruby on Rails
 tags:
 - programming
 - ruby
+redirect_from:
+    - /reddit-api-with-ruby-on-rails/
+    - /blog/2010/06/26/reddit-api-with-ruby-on-rails/
 ---
 
 **This post is old!!! Checkout [Reddit's dev site](http://www.reddit.com/dev/api) for detailed API docs.**

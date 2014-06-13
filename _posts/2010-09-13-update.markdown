@@ -7,6 +7,9 @@ status: publish
 title: Update
 tags:
 - self
+redirect_from:
+    - /update/
+    - /blog/2010/09/13/update/
 ---
 
 Here is the list of things I have been working on -

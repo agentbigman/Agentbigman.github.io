@@ -9,6 +9,9 @@ wordpress_id: '35'
 tags:
 - marketing
 - internet
+redirect_from:
+    - /creating-buzz/
+    - /blog/2011/04/12/creating-buzz/
 ---
 
 Learning marketing by observing people who are good at it.
