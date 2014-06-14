@@ -5,7 +5,7 @@ layout: post
 title: Simplifying My Life
 ---
 
-Last week when I was talking to my cousin and his friends about his board exam
+Last week when I was talking to my cousin and his friends about their board exam
 results, it hit me that it has been over a decade
 since I graduated from high school. Looking back at my life, I realized how
 simple it was and how focussed, productive and happy I was. There were no
