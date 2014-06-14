@@ -38,8 +38,8 @@ to enjoy the meal. After reading a book or an article, instead of
 Tweeting about it, you used to think over it. When you had nothing to
 do, instead of staring at your smartphone screen scrolling through your
 Twitter timeline, you looked at your surroundings or talked to strangers
-or just did nothing. Hard hard is it to just sit and do nothing without
-staring at your smartphone.
+or just did nothing. How hard is it to just sit and do nothing without
+staring at your smartphone?
 
 When I compare today with my high school days, it feels that I have
 become a narcissistic droid. When I see an article or a post, my first
