@@ -24,25 +24,28 @@ WhatsApp, you used to get on your bike, go to his place and shout
 his name till he gets out of his balcony to say "Wait, I am coming!" or his mom
 comes out to scold you. When you saw an exciting wrestling match on TV,
 instead of posting a Facebook status or a Tweeting about it, you called your
-friend on a landline phone and ask him to check out the fight on Start Sports
-and discuss "how Undertaker kicked Big Show's a$$" the next day at school.
+friend on a landline phone and told him to check out the fight on Start Sports
+and discussed "how Undertaker kicked Big Show's a$$" the next day at school.
 
-When you went out for a lunch or dinner or when you were just sitting with your
-friends after a match or a class, you used to talk via your mouths and not
-through WhatsApp messages. Now, when you hang out with your friends, everybody looks down
-at their smartphone screens. When you went for a trip, instead of clicking
-pics and posting them on Facebook with funny one liners, you used to enjoy and
-experience the scene. When you went out for a meal, instead of posting stupid food
-pics, you used to enjoy the meal. After reading a book or an article, instead of
-Tweeting about it, you used to think over it. When you had nothing to do, you
-looked at your surroundings or talked to strangers or just did nothing instead
-of staring at your smartphone screen scrolling through your Twitter timeline.
+When you went out for a lunch or dinner or when you were just sitting
+with your friends after a match or a class, you used to talk via your
+mouths and not through WhatsApp messages. Now, when you hang out with
+your friends, everybody looks down at their smartphone screens. When you
+went for a trip, instead of clicking pics and posting them on Facebook
+with witty one liners, you used to enjoy and experience the scene. When
+you went out for a meal, instead of posting stupid food pics, you used
+to enjoy the meal. After reading a book or an article, instead of
+Tweeting about it, you used to think over it. When you had nothing to
+do, instead of staring at your smartphone screen scrolling through your
+Twitter timeline, you looked at your surroundings or talked to strangers
+or just did nothing. Hard hard is it to just sit and do nothing without
+staring at your smartphone.
 
 When I compare today with my high school days, it feels that I have
 become a narcissistic droid. When I see an article or a post, my first
 instinct is to share it. I am bombarded with crap disguised as news and
 articles in real time. I have way shorter attention span and I can't
-focus for long hours. I used to read an entire magazine in a single
+focus for long hours. I could read an entire magazine in a single
 sitting, and now I can not even read an article without taking multiple
 breaks or without switching through multiple tabs on browser. When
 someone shares a joke with me, instead of laughing I am like "Meh! I've
