@@ -24,7 +24,7 @@ In 1963, the team launched their first rocket from Thumba, Kerala. The rocket (A
 imported from USA, the payload was French and the range clearance was
 given by a Russian helicopter. The rocket was imported in parts and had
 to be assembled. INCOSPAR didn't even have a workshop. A makeshift
-laboratory cum workshop was setup in a Church in Thumba village. Ours is
+laboratory cum workshop was setup in a church in Thumba village. Ours is
 the only space programme in the world that started in a Church :-)
 
 Since the organization was given limited budget, there were no proper
@@ -39,3 +39,14 @@ space programme got officially started that day. By 1967, we had a full
 "swadeshi" rocket - Rohini 75. A few years later, ISRO was formed and it
 carried us to space age by building super successful and efficient PSLV
 and GSLV rockets.
+
+**Update** - This is the church in Thumba village where it all started.
+
+<blockquote class="twitter-tweet" lang="en"><p>This is where it all
+started. <a
+href="http://t.co/mZF7UmWHCw">pic.twitter.com/mZF7UmWHCw</a></p>&mdash;
+ISRO (@ISROOFFICIAL) <a
+href="https://twitter.com/ISROOFFICIAL/statuses/479124874640646145">June
+18, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js"
+charset="utf-8"></script>
