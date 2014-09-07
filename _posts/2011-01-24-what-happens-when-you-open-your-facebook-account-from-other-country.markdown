@@ -4,7 +4,7 @@ date: '2011-01-24 18:52:00'
 layout: post
 slug: what-happens-when-you-open-your-facebook-account-from-other-country
 status: publish
-title: 'What happens when you open your Facebook account from other country? '
+title: 'What happens when you open your Facebook account from another country? '
 wordpress_id: '64'
 tags:
 - security
