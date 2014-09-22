@@ -12,19 +12,19 @@ title: Resume
 
 -----------------
 
-###Karmasoft Inc
-
-_May, 2013 - Present_ (Ruby Programmer + DevOps Engineer)
-
-I designed and built an API for a music event discovery iOS app. I scaled and load tested the API to handle 10,000 concurrent requests. Presently, I am working on auto-scaling implementation.
-
------------------
-
 ###[QuizPro](http://quizpro.in)
 
 _(August 2012 - Present)_
 
 QuizPro is an online assessment platform for schools and other educational institutions. It allows students to take assessments from computers, tablets or smartphones. I am also designing an algorithm to predict students' scores.
+
+-----------------
+
+###Karmasoft Inc
+
+_May, 2013 - Present_ (Ruby Programmer + DevOps Engineer)
+
+I designed and built an API for a music event discovery iOS app. I scaled and load tested the API to handle 10,000 concurrent requests. Entire app architecture was hosted on AWS (EC2, S3, ElastiCache, RDS, Elastic Load Balancing, Auto Scaling & SES). Presently, I am working on auto-scaling implementation.
 
 -----------------
 
@@ -46,7 +46,7 @@ I designed and built an MVP for Desklets that helped users find and book office 
 
 ###[Printfriendly](http://printfriendly.com)
 
-_July, 2011 - November, 2011_ Javascript Programmer
+_July, 2011 - November, 2011_ (Javascript Programmer)
 
 Printfriendly has a browser plugins and extensions that make a page more readable. I optimized their page parsing algorithm and made it work on sites with non-standard layouts. I also added internationalization to the script and wrote plugins/extensions for Wordpress, Blogger and Chrome.
 
