@@ -48,7 +48,7 @@ I designed and built an MVP for Desklets that helped users find and book office 
 
 _July, 2011 - November, 2011_ (Javascript Programmer)
 
-Printfriendly has a browser plugins and extensions that make a page more readable. I optimized their page parsing algorithm and made it work on sites with non-standard layouts. I also added internationalization to the script and wrote plugins/extensions for Wordpress, Blogger and Chrome.
+Printfriendly is a set of browser plugins and extensions that make a page more readable. I optimized their page parsing algorithm and made it work on sites with non-standard layouts. I also added internationalization to the script and wrote plugins for Wordpress and Blogger platforms, and extensions for Chrome and Firefox browsers.
 
 ------------------
 
@@ -65,7 +65,7 @@ and API for SMS based games for [PlayUp India](http://www.business-standard.com/
 
 _September, 2009 - April, 2010_
 
-I audited information infrastructure of some large Indian corporations like PowerGrid Corporation, Corporation Bank, NHDC Ltd., IRCON International Ltd., Oriental Bank of Commerce and some other small private companies and colleges.
+I audited information security infrastructure of some large Indian corporations like PowerGrid Corporation, Corporation Bank, NHDC Ltd., IRCON International Ltd., Oriental Bank of Commerce and some other small private companies and colleges. Helped in drafting Information Security Policy for PowerGrid Corporation.
 
 -------------------
 
@@ -73,7 +73,7 @@ I audited information infrastructure of some large Indian corporations like Powe
 
 _June, 2008 - July, 2009_
 
-I worked as an SAP consultant on a large SAP implementation for Ericsson.
+I worked as an SAP consultant on a large SAP implementation project for Ericsson.
 
 -------------------
 
