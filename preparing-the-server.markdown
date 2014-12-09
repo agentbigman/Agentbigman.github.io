@@ -2,7 +2,8 @@
 author: jagira
 layout: post
 title: Preparing The Server
-date: 2014-09-30 00:00:08
+sitemap: true
+lastmod: 2014-09-30 00:00:08
 ---
 
 When you purchase a VPS or a server from a hosting company, they usually

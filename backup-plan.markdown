@@ -2,7 +2,8 @@
 author: jagira
 layout: post
 title: Setting Up A Backup Process
-date: 2014-09-30 00:00:06
+sitemap: true
+lastmod: 2014-09-30 00:00:06
 ---
 
 *Anything that can go wrong, will go wrong.*

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Projects
+sitemap: true
+lastmod: 2014-11-30 00:00:00
 ---
 
 ### [DevOps 101 for Ruby on Rails Developers](http://jigarpatel.in/rails-devops)

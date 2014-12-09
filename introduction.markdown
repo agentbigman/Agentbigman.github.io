@@ -2,7 +2,8 @@
 author: jagira
 layout: post
 title: Introduction
-date: 2014-09-30 00:00:10
+sitemap: true
+lastmod: 2014-09-30 00:00:10
 ---
 
 As a ruby developer, I have worked on many projects that lacked

@@ -2,7 +2,8 @@
 author: jagira
 layout: post
 title: Deploying Application
-date: 2014-09-30 00:00:07
+sitemap: true
+lastmod: 2014-09-30 00:00:07
 ---
 
 Deploying a Rails application is a 3 step process:

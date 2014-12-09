@@ -2,7 +2,8 @@
 author: jagira
 layout: post
 title: Deployment Strategies
-date: 2014-09-30 00:00:09
+sitemap: true
+lastmod: 2014-09-30 00:00:09
 ---
 
 Deploying apps is not that tough!

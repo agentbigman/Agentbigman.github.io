@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Resume
+sitemap: true
+lastmod: 2014-03-30 00:00:00
 ---
 
 <p class="message">
