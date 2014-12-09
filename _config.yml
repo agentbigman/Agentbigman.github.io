@@ -18,6 +18,11 @@ author:
 
 paginate:         5
 
+collections:
+    rails-devops:
+        output: true
+        permalink: /:collection/:path/
+
 # Custom vars
 version:          1.0.0
 
