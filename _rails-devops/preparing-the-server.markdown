@@ -1,6 +1,6 @@
 ---
 author: jagira
-layout: post
+layout: devops
 title: Preparing The Server
 sitemap: true
 lastmod: 2014-09-30 00:00:08

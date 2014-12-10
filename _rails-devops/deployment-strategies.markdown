@@ -1,6 +1,6 @@
 ---
 author: jagira
-layout: post
+layout: devops
 title: Deployment Strategies
 sitemap: true
 lastmod: 2014-09-30 00:00:09
