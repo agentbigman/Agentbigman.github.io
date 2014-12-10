@@ -25,6 +25,11 @@
           {% endif %}
 
           {{ content }}
+
+          {% if page.url != "/rails-devops/" %}
+            {% include book_index.html %}
+          {% endif %}
+
       </div>
     </div>
 
