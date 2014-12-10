@@ -28,3 +28,8 @@ div.post-list ul li {
 a#home-link { float: left; padding-left: 10px; }
 a#home-link img { width: 32px; }
 
+.alert {
+    background-color: #f2dede;
+    color: #b94a48;
+}
+

@@ -12,7 +12,25 @@ redirect_from:
     - /blog/2011/12/04/a-guide-to-deploying-rails-apps/
 ---
 
-Note _This is not a definitive guide or a tutorial. I have simply collected all my notes related to deployment and compiled them into a blog post. Please check the documentation of the tools/apps mentioned here._
+<div class="message alert">
+    <p>
+    I am writing an <a href="http://jigarpatel.in/rails-devops"
+    title="DevOps 101 for Ruby on Rails by Jigar Patel">ebook on basic DevOps for Ruby on
+    Rails</a>.
+    </p>
+
+    <p>
+    Do check it out for more detailed and up to date guide for deploying
+    Ruby on Rails applications.
+    </p>
+
+    <p>
+    <a href="http://jigarpatel.in/rails-devops/" title="Devops 101 for
+    Ruby on Rails by Jigar Patel">Devops 101 for Ruby on Rails</a>
+    </p>
+</div>
+
+Note: _This is not a definitive guide or a tutorial. I have simply collected all my notes related to deployment and compiled them into a blog post. Please check the documentation of the tools/apps mentioned here._
 
 There are three major steps in the deployment process.
 
