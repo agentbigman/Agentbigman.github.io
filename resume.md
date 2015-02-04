@@ -6,7 +6,7 @@ lastmod: 2014-03-30 00:00:00
 ---
 
 <p class="message">
-  This page was last updated on 29<sup>th</sup> March, 2014.
+  This page was last updated on 31<sup>st</sup> January, 2015.
 </p>
 
 
@@ -14,11 +14,14 @@ lastmod: 2014-03-30 00:00:00
 
 -----------------
 
-###[QuizPro](http://quizpro.in)
+###[QuizPro / ClassReport](http://quizpro.in)
 
 _(August 2012 - Present)_
 
 QuizPro is an online assessment platform for schools and other educational institutions. It allows students to take assessments from computers, tablets or smartphones. I am also designing an algorithm to predict students' scores.
+
+ClassReport provides a platform to teachers to interact with students /
+parents via web and text messages.
 
 -----------------
 
