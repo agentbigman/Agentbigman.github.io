@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 layout: post
 title: "Google Nexus Q - An awesome device without any takers"
 date: 2012-07-03 21:05

@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2013-12-17'
 layout: post
 title: Humble beginnings of ISRO

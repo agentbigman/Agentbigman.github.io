@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2010-06-02 18:11:00'
 layout: post
 slug: daniel-pink-ted-science-of-motivation

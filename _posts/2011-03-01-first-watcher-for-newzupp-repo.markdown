@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2011-03-01 09:33:00'
 layout: post
 slug: first-watcher-for-newzupp-repo

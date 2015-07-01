@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2014-06-12'
 layout: post
 title: Simplifying My Life

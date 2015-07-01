@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2010-04-22 17:08:00'
 layout: post
 slug: my-thoughts-on-internet-censorship

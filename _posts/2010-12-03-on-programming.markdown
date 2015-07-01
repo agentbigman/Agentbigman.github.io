@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2010-12-03 10:39:00'
 layout: post
 slug: on-programming

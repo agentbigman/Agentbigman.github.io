@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2011-07-10 08:48:53'
 layout: post
 slug: car-guys-vs-bean-counters-the-battle-for-the-soul-of-american-business

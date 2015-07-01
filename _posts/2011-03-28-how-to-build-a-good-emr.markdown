@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2011-03-28 04:32:00'
 layout: post
 slug: how-to-build-a-good-emr

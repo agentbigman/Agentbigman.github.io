@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2011-07-10 02:19:09'
 layout: post
 slug: connecting-with-your-customers-is-the-most-important-thing

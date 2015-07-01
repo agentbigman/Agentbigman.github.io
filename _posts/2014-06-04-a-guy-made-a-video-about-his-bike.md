@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2014-06-04'
 layout: post
 title: A guy made a video about his bike. Haven't seen such a good video in quite a while.

@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2014-06-07'
 layout: post
 title: Honeyguide - A Bird That Deals With Humans

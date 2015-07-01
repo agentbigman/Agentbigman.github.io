@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2010-07-09 17:37:00'
 layout: post
 slug: lesson-for-application-security

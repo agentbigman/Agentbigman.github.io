@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2011-02-23 20:03:00'
 layout: post
 slug: configurable-message-templates-in-rails

@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2010-09-13 13:32:00'
 layout: post
 slug: update

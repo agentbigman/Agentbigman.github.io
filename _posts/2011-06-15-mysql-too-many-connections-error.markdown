@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2011-06-15 08:06:00'
 layout: post
 slug: mysql-too-many-connections-error

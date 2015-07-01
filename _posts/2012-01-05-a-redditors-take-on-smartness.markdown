@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 layout: post
 title: "A Redditor's Take on Smartness"
 date: 2012-01-05 13:53

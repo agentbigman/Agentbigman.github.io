@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 layout: post
 title: "A Guide to Deploying Rails Apps"
 date: 2011-12-04 15:09

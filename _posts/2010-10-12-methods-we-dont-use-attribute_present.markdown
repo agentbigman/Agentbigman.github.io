@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2010-10-12 19:50:00'
 layout: post
 slug: methods-we-dont-use-attribute_present

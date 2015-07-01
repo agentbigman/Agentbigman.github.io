@@ -5,15 +5,13 @@
 
   <body>
 
-    {% include sidebar.html %}
-
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="/" title="Home">Archives</a>
+            <a href="/bytes" title="Home">Bytes</a>
           </h3>
         </div>
       </div>
@@ -22,18 +20,9 @@
 
         <div class="post">
           <h1 class="post-title">{{ page.title }}</h1>
-          <p class='orange'><small>{{ page.date | date: '%B %d, %Y' }} / {{ page.author }}</small></p>
+          <p class="orange"><small>{{ page.date | date: '%B %d, %Y' }} / {{ page.author }}</small></p>
           {{ content }}
         </div>
-
-        <div class="social-buttons">
-            <p><a href="https://twitter.com/share" class="twitter-share-button"
-                data-via="jagira" data-size="large">Tweet</a></p>
-            <script>!function(d,s,id){var
-                js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
-            'script', 'twitter-wjs');</script>
-        </div>
-        {% include comments.html %}
       </div>
     </div>
 

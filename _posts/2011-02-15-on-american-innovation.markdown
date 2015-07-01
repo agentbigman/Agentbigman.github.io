@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2011-02-15 07:32:00'
 layout: post
 slug: on-american-innovation

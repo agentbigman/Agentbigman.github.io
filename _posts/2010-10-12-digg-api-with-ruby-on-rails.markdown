@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2010-10-12 20:01:00'
 layout: post
 slug: digg-api-with-ruby-on-rails

@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2010-06-03 18:48:00'
 layout: post
 slug: so-very-true

@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2011-03-23 05:06:00'
 layout: post
 slug: learning-from-chrome-ux-1

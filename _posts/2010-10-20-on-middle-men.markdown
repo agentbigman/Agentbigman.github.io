@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2010-10-20 04:26:00'
 layout: post
 slug: on-middle-men

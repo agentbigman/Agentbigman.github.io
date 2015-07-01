@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar
 date: '2011-04-17 07:07:00'
 layout: post
 slug: arguments-against-jan-lokpal-bill

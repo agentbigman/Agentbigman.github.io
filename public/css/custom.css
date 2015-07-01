@@ -67,10 +67,10 @@ html, body, .wrap { height: 100%; }
   display: inline-block;
 }
 
-a.red { color: #F33F2B; }
-a.orange { color: #D69527; }
-a.green { color: #00983B; }
-a.pink { color: #DF6098; }
+.red { color: #F33F2B; }
+.orange { color: #D69527; }
+.green { color: #00983B; }
+.pink { color: #DF6098; }
 
 a.home-link {
   position: absolute;
@@ -83,4 +83,10 @@ a.home-link {
   padding: .5rem 1rem;
   border-radius: 4px;
   cursor: pointer;
+}
+
+span.date {
+  font-size: .8rem;
+  display: inline-block;
+  width: 100px;
 }
