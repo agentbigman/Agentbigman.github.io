@@ -1,6 +1,7 @@
 ---
 layout: devops
 sitemap: true
+title: "DevOps 101 for Rails"
 lastmod: 2014-03-30 00:00:00
 ---
 

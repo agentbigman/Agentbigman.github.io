@@ -1,18 +1,24 @@
 ---
-layout: index
+layout: clean
 title: Home
 sitemap: true
 ---
 
-<div class="post-list">
-    <ul>
-        {% for post in site.posts %}
-            <li>
-            <a href="{{ post.url }}">
-                {{ post.title }}
-            </a>
-            </li>
-        {% endfor %}
-    </ul>
+<div class="root-container">
+
+  <div class="root-text">Howdy! My name is <a>Jigar Patel</a>. I am an engineer
+    & I like <a href="http://github.com/jagira" class="red">coding</a>, playing
+    <a href="/cricket" class="orange">Cricket</a> & Volleyball, 
+    <a href="/training-log" class="green">lifting weights</a>, <a
+      href="/travelogue" class="pink">travelling</a> &
+    <a href="/tinkering">fixing machines</a>.
+  </div>
+
+  <div class="root-links">
+    <a href="https://twitter.com/jagira">Twitter</a>
+    <a href="/blog">Blog</a>
+    <a href="/bytes">Bytes</a>
+    <a href="/archives">Old Stuff!</a>
+  </div>
 </div>
 

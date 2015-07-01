@@ -51,10 +51,36 @@ html, body, .wrap { height: 100%; }
 }
 
 .root-text {
+  text-align: center;
   font-size: 1.25em;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.root-links {
+  padding: 10px 0px;
+  text-align: center;
+}
+
+.root-links a {
+  padding: 10px;
+  display: inline-block;
 }
 
 a.red { color: #F33F2B; }
 a.orange { color: #D69527; }
 a.green { color: #00983B; }
 a.pink { color: #DF6098; }
+
+a.home-link {
+  position: absolute;
+  top:  0.3rem;
+  left: 0rem;
+  color: #333;
+  font-weight: normal;
+  font-size: 1.25rem;
+  display: block;
+  padding: .5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}

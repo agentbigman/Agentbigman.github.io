@@ -22,6 +22,12 @@ collections:
     rails-devops:
         output: true
         permalink: /:collection/:path/
+    blog:
+        output: true
+        permalink: /:collection/:path/
+    bytes:
+        output: true
+        permalink: /:collection/:path/
 
 # Custom vars
 version:          1.0.0

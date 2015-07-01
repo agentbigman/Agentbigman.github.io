@@ -13,31 +13,19 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="/rails-devops" title="DevOps 101 for Ruby on Rails">DevOps 101 for Rails</a>
-            <small>{{ site.tagline }}</small>
+            <a href="/" title="Home">{{ page.title }}</a>
+            <small>{{ page.tagline }}</small>
           </h3>
         </div>
       </div>
 
       <div class="container content">
-          {% if page.title != null %}
-            {% if page.url != "/rails-devops/" %}
-                <h1 class="post-title">{{ page.title }}</h1>
-            {% endif %}
-          {% endif %}
-
-          {{ content }}
-
-          {% if page.url != "/rails-devops/" %}
-            {% include book_index.html %}
-          {% endif %}
-
+        {{ content }}
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    <a class="home-link" href="javascript:history.back()"><i class="fa fa-long-arrow-left"></i></a>
 
     {% include analytics.html %}
   </body>
 </html>
-
