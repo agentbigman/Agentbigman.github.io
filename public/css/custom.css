@@ -39,3 +39,22 @@ a#home-link img { width: 32px; }
 
 a.current { color: #999; }
 
+html, body, .wrap { height: 100%; }
+
+.root-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  max-width: 768px;
+}
+
+.root-text {
+  font-size: 1.25em;
+}
+
+a.red { color: #F33F2B; }
+a.orange { color: #D69527; }
+a.green { color: #00983B; }
+a.pink { color: #DF6098; }
