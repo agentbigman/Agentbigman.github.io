@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-03-03 07:19:00'
 layout: post
 slug: on-apples-30-cut

@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-05-17 07:12:00'
 layout: post
 slug: anatomy-of-tech-startup

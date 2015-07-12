@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2014-06-07'
 layout: post
 title: Honeyguide - A Bird That Deals With Humans

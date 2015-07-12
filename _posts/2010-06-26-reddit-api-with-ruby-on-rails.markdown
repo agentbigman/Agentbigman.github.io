@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2010-06-26 11:55:00'
 layout: post
 slug: reddit-api-with-ruby-on-rails

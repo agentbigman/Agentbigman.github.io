@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-01-21 06:16:00'
 layout: post
 slug: learning-python-django-day-1

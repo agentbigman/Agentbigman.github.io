@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar Patel
 layout: devops
 title: Setting Up A Backup Process
 sitemap: true

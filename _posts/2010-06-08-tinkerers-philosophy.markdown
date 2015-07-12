@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2010-06-08 16:50:00'
 layout: post
 slug: tinkerers-philosophy

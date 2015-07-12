@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2010-10-11 19:28:00'
 layout: post
 slug: methods-we-dont-use-dup

@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2010-07-29 13:08:00'
 layout: post
 slug: private-or-protected-use-private

@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2014-06-06'
 layout: post
 title: Evolution of Cricket Video Games

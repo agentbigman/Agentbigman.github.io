@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-07-21 11:12:45'
 layout: post
 slug: confronting-stupid

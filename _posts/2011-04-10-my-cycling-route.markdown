@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-04-10 14:47:00'
 layout: post
 slug: my-cycling-route

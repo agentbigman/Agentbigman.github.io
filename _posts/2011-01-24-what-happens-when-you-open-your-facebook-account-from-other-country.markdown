@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-01-24 18:52:00'
 layout: post
 slug: what-happens-when-you-open-your-facebook-account-from-other-country

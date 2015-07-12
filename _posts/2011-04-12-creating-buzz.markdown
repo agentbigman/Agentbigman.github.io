@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-04-12 14:05:00'
 layout: post
 slug: creating-buzz

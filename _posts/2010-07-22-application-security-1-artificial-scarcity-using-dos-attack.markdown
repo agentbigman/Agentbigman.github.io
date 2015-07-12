@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2010-07-22 16:22:00'
 layout: post
 slug: application-security-1-artificial-scarcity-using-dos-attack

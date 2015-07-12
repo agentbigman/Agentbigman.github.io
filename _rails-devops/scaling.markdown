@@ -1,5 +1,5 @@
 ---
-author: jagira
+author: Jigar Patel
 layout: devops
 title: Scaling
 sitemap: true

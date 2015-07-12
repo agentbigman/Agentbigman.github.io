@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-01-26 17:09:00'
 layout: post
 slug: secure-browsing-using-ssh-tunnel

@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-05-12 06:32:00'
 layout: post
 slug: amazon-com-the-hidden-empire

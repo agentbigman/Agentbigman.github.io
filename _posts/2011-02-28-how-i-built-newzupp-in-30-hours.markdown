@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-02-28 16:55:00'
 layout: post
 slug: how-i-built-newzupp-in-30-hours

@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2013-12-17'
 layout: post
 title: Humble beginnings of ISRO

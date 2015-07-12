@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2010-09-15 06:24:00'
 layout: post
 slug: rails-3-does-not-auto-load-classesmodules-from-lib-folder

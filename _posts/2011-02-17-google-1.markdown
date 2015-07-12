@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-02-17 09:07:00'
 layout: post
 slug: google-1

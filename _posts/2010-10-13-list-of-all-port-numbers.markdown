@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2010-10-13 15:52:00'
 layout: post
 slug: list-of-all-port-numbers

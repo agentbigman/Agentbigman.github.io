@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-08-09 17:14:48'
 layout: post
 slug: convert-images-to-pdf

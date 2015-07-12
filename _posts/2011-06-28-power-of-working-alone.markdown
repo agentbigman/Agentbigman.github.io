@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-06-28 01:19:59'
 layout: post
 slug: power-of-working-alone

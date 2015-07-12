@@ -1,5 +1,5 @@
 ---
-author: Jigar
+author: Jigar Patel
 date: '2011-04-21 03:32:00'
 layout: post
 slug: two-ways-to-make-money-as-a-startup
