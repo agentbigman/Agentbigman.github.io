@@ -48,18 +48,17 @@ html, body, .wrap { height: 100%; }
   transform: translate(-50%, -50%);
   width: 80%;
   max-width: 768px;
+  text-align: center;
 }
 
 .root-text {
-  text-align: center;
   font-size: 1.25em;
   padding-bottom: 20px;
   border-bottom: 1px solid #ddd;
 }
 
 .root-links {
-  padding: 10px 0px;
-  text-align: center;
+  padding: 10px 0px 20px 0px;
 }
 
 .root-links a {
@@ -67,10 +66,12 @@ html, body, .wrap { height: 100%; }
   display: inline-block;
 }
 
+.small { font-size: 80%; }
 .red { color: #F33F2B; }
 .orange { color: #D69527; }
 .green { color: #00983B; }
 .pink { color: #DF6098; }
+.grey { color: #555; }
 
 a.home-link {
   position: absolute;
