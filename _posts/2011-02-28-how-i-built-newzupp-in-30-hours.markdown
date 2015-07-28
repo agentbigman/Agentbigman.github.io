@@ -2,9 +2,9 @@
 author: Jigar Patel
 date: '2011-02-28 16:55:00'
 layout: post
-slug: how-i-built-newzupp-in-30-hours
+slug: how-i-built-newzupp-in-30-hour
 status: publish
-title: How I Built Newzupp in 30 Hours?
+title: How I Built Newzupp in 30 Hours
 wordpress_id: '56'
 tags:
 - programming
