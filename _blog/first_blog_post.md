@@ -1,7 +1,7 @@
 ---
 date: '2015-07-01 20:00'
 title: First Blog Post
-layout: blog
+layout: post
 author: Jigar Patel
 ---
 

@@ -10,8 +10,6 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a>
-    <a class="sidebar-nav-item" href="/rails-devops/">DevOps 101</a>
-
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -26,15 +24,19 @@
       {% endif %}
     {% endfor %}
 
+    <a class="sidebar-nav-item" href="/rails-devops/">DevOps 101</a>
+    <a class="sidebar-nav-item" href="/posts">Archive</a>
     <a class="sidebar-nav-item" href="http://twitter.com/jagira">Twitter</a>
     <a class="sidebar-nav-item" href="http://github.com/jagira">GitHub</a>
     <a class="sidebar-nav-item" href="https://plus.google.com/+JigarPatel330?rel=author">Google</a>
     <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
   </nav>
 
+  <!--
   <div class="sidebar-item">
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
   </div>
+  -->
 </div>

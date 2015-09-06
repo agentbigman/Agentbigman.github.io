@@ -8,6 +8,7 @@ sitemap: true
     <ul>
         {% for post in site.posts %}
             <li>
+            <span class="date orange">{{ post.date | date: '%b %d, %Y' }}</span>
             <a href="{{ post.url }}">
                 {{ post.title }}
             </a>
