@@ -74,7 +74,7 @@ Ghangaria](https://lh3.googleusercontent.com/ja9u7avZ8BlrO2xvaBLGLFnUpwz0OMrg6x5
 
 The best thing about Himalayas is you don't need to carry a
 big water bottle or buy bottled water. You can drink water from any
-flowing stream or taps setup by Uttarakhand Government. Its water is probably 
+flowing stream or taps setup by Uttarakhand Government. It's probably 
 cleaner than that bottled water.
 
 ![Pushpavati
