@@ -62,10 +62,10 @@ Govindghat](https://lh3.googleusercontent.com/hxN5WdlNXQ6Gyjl-c997IYGtCc0mXoUQ3H
 **Sept 20th**: We left for
 [Ghangaria](https://en.wikipedia.org/wiki/Ghangaria) from Govindghat at
 8am. Ghangaria is a small settlement which serves as the base for treks
-to VoF and Hemkund. The trek to Ghangaria is ~ 14km, which at places
-get difficult with steep climbs. A well paved path is maintained almost
+to VoF and Hemkund. The trek from Govindghat to Ghangaria is ~ 14km, which at places
+gets difficult with steep climbs. A well paved path is maintained almost
 all along the way. There are a few villages along the way where you can
-get food. 
+get food and refreshments.
 
 ![Govindghat -
 Ghangaria](https://lh3.googleusercontent.com/ja9u7avZ8BlrO2xvaBLGLFnUpwz0OMrg6x5Jagi2UWR1Yt42nZ2Gdq8gkPHL_Hozkfr7ddmVAfTRwcm1Yss-he_Ial_zqEVg5WUjB8Xh6DC5L0VlcZU9I93hmNgaRiL_BYEZs2KqmjYgx0YDoN3KlrLFwDzInF2KfY5gHru-W7dB_YWuhHB-_AhIjzYCCGNel97x8GfIzZzgcuvzuWLPgjTXdNXqJFEv2QIVRAqiaLvkC8Jt56Pkl5ZdTejgPSgTV2cVZyWzVTYL6StVhNgLG2gXr3GrR9oi9NolI8cs_w2w8NNNeVnM_PXs68J1r5WeLlTGwG40FEqG8HIhWSR8pN3HvPh5M2-9_qMFi4zJPtLwW8jmzCpVaYnq4P_n-VvIvW3L68jCvVkNAfKFMxHDMf8cPekTUZiVBh6VjARWzrLCfqsJbaCJsrxGLx5BBYEUtA9JIWFDNZuNNurUSrTVu8rD6iKUJQAfskWPr8ThoLEjX3qaLPhbHn26kSoOPeIPZcI4jt688uXnfmRerRdGLvsDDnQEeSE7OD0_FCNYISI=w899-h674-no)
@@ -73,9 +73,9 @@ Ghangaria](https://lh3.googleusercontent.com/ja9u7avZ8BlrO2xvaBLGLFnUpwz0OMrg6x5
 <p class="center"><em>Enroute Ghangaria</em></p>
 
 The best thing about Himalayas is you don't need to carry a
-big water bottle or buy bottled water. One can drink water from any
-flowing stream or taps set by UK tourism. It's probably cleaner than
-that bottled water.
+big water bottle or buy bottled water. You can drink water from any
+flowing stream or taps setup by Uttarakhand Government. Its water is probably 
+cleaner than that bottled water.
 
 ![Pushpavati
 River](https://lh3.googleusercontent.com/MXWAKAc0NU-xE4VrC7Dz6SyrXbDcuvk4ZcU4J1Z3kkzJ12HapaBHwkkaqr03F5ezuyaOsvFaKMF7JerNHQ4Ik5thy2SnkX_fFr4MPEQ8mUIIvK44i4rhoxjG7YxN-gbYkxysKkBpBav9xWUv3GECmaBRg4Wq2VsvWm_xJkVxmoNrCQMt45I6vCOxIYWi1j0Hvw9A4xkfo5apZ2f4BJv8HJvU-_yCrIo-y8Fg0CGwgSrPbciafsN-LTRrnXhoC6PnqSwOwFafdCpSKKq008tqrMRG366ys7wCHsRRr5p-nQAeHOYM2F7FbDd-ejWEjPbZGOoIpB-E5XuL5ZlIGxrR08VBBAnEFrKbGIkkm0up5X4ZmpSNJYl-QKkDVd5Asof5y1EtyqRtDjyAj9HRlqCiuuutKPMpFywSoBlevk1k6ZxD2OFbaJBJt8dy4NjC3zZL6YatsVogLc7VRHIVw1eYhaIhYpeKY0hxsyREm_-gWlRBXUgDmhwJHLLTVO-ZDoGI21_lUoxiuXH3_Miyo_r3I_ABVzpLx7t7zs9k44fK5lE=w899-h674-no)
@@ -92,7 +92,7 @@ Entrance](https://lh3.googleusercontent.com/DMb0Z4lGIWAuc2qQZvBC3VRemBiOK53PgXRR
 There is a moderately difficult hike of 3kms from there to Valley. VoF
 has to be one of the most beautiful places in India. It's covered with
 hundred of species of flowers during July / August. We reached a month
-after flower season and there weren't many flowers to be seen. But even
+after the flower season and there weren't many flowers to be seen. But even
 without flowers, the valley was extremely beautiful.
 
 ![Start of Valley of
@@ -117,7 +117,7 @@ Since this is a pilgrim route, there a few shops setup along the path.
 It took us around 3 and half hours to reach the top and we managed to
 visit Gurudwara Hemkund Sahib just before it closed. If you want to 
 visit Gurudwara, then you must leave Ghangaria before 8am. It's also
-worth bathing in freezing Hemkund lake which has a crystal clear water. 
+worth bathing in freezing Hemkund lake which has crystal clear water. 
 The hot khichdi served at langar tastes amazing after you bath in freezing water!
 
 ![Hemkund](https://lh3.googleusercontent.com/9zcOgvDfBY5ARKNncbpESkzg6uVZDzffnJ1Z-qBzJUGkQ3zAFy3bZIeZQQWiKhBFWE0MFqzKEeyWCiWiRF4WLiXjGNxwTe8pHBoBh2RiVCreLifrlF-ZmKNQEJ-iOQAayc12Vg6WNu3eqM2eJYWOcHMsh-8YIN-dzddhZa7mFFAnp0aGJ-tEeUmF-XknWbHjkLcBU7St206mdZSYeGs2dBJeVHLFnmZi7YBIpjLu5zGbhX7Qvu2chr8tPXlaq_qlZ6bP7MFQLQj_7fMMe33SwLHLpgr1dDp0gObgZVYufPSIsVP0W1GN6p1-lbRALAbq9PiKgNZ3Pb8KSJE1O0pXgHdWQSlNyvPrwB2Tsq2NhONDB6EVfUoHNnXnfgqwCiww4n6wVgYRIOdgLa0vcsNu4i1eM6COJfOMhkmckGWr2Zrv2IKWavqZy0UojVwkxxnurXbyOu-uMZ5gaDK1W9ZgOBgdfJbkosK9NDB8PUzgK9t_kp7LaFOGn78giEV0vZbH_ALTfVXK_HwiUy-3GYFO1nyZkJHXDmp9WJfr7xrQYhY=w899-h674-no)
