@@ -5,7 +5,7 @@ layout: post
 author: Jigar Patel
 ---
 
-In my recent trip to Himalayas, I managed to travel to high altitudes
+In my recent trip to Uttarakhand, I managed to travel to high altitudes
 without getting sick (in all my previous trips to the mountains, I have
 felt altitude sickness). The only thing I did wrong was packing
 unnecessary items. This list is an optimization based on my experience.
