@@ -6,7 +6,7 @@ author: Jigar Patel
 ---
 
 ![Valley of
-Flowers](https://lh3.googleusercontent.com/l8jGlxfOnvrbGK_cubTtmPRqTW9S9GVX3d5kM3LNshmdpxmyxZqrk52O6prDvOxs_kGmU6DhH5btpNF4rAT2M-RrGY2YSv1afn7wtbtUHTEmfU_jU20-kfoniC9mSZZqsbLcnOtPLMTa7xno9hRrGdkvWzelz-CfshtOC35H-b8rsrv-l0_Rqfp2iusnDpdB2N6xcwqcWZm6YJR3Mm0yMAX2uro0R-9mfv2gT_Mds9XWBBRFNj-wEWeWqKL4kMWfjQZkvCgGpHtabqxfwdKV8glKU9ykWrlz9LlgLXteVr9BivKd4Z1UhhZtYY_7u5BljfSa_jRck0sGzFXUQdOOUYmRbH589slJMuE532yyd0hx3rytH2XsAxOzsqvPgERQ5VojWxKBDnMNS78ZyDkJO-uleuIlypI1vmGO8GYERryTTCGitlO1yw03mLEBhz5Wi9XkTN9QgnuC4lQsvJb8-RERaPdU-xPv6hPYGWIin6rTyQo_Z5k6gGIE-F3Y8ApeIPI5lfw1611bOKvoU6byeb34UtzGu_eixI-88XkVm4k=w899-h674-no) 
+Flowers](/img/posts/travel_notes_valley_of_flowers_and_hemkund/valley_of_flowers.jpg)
 
 <p class="center"><em>Valley of Flowers</em></p>
 
@@ -56,8 +56,7 @@ a river, then you climb a mountain, then you pass a few landslide zones,
 and then you descend in a valley. All of this repeats many times.
 
 ![Enroute
-Govindghat](https://lh3.googleusercontent.com/hxN5WdlNXQ6Gyjl-c997IYGtCc0mXoUQ3HPaGl4tZektTavmlMDpoIhZ1dtSMJmwOCHdFa3253s-wQ5GZp69j_JUIeLjx5EjTmFGzLxdQJsmZgt8g9boofUl_-OMxjELhejH-7gdiqoApL6ZIV4NVxCXUX3hHQoINjyMwn_6Fq5DaQKo_ZwOCjdEVIi5i2gv45IzJdSVIZNU9s1tTdw1X83EpYAuRHk5lztaUWjY8b-x6YvayOy5AYYGM5YT1q-f9GDsWP5kxCysAcGMD_U_wp8jf4twnXAJRaGvj4jzdYvThN_s2PDViZuaIcyta5J8Sm-_BKANunvAPvuxIOP2cBGRuaK04qSlevQ9Ir7htqZpMXBqSz_FhUopdFy-LmoP2uOtn4g57ApzrOewUOBiFg6-h-84n3ulYeJdc0yCoKAWl2y_SFkKuJUTBKUp41eGjGkd098QiWyubqHBfW_RZtZMJz0jvab64TQqvbUxXW3OMFumqVEffqwePX-ZlcRCptHp_Q9t9RLTZy_x0to9-kzQY7AHeybdGkCuA7BS2yQ=w899-h674-no)
-<p class="center">*Enroute Govindghat*</p>
+Govindghat](/img/posts/travel_notes_valley_of_flowers_and_hemkund/enroute_govindghat.jpg)
 
 **Sept 20th**: We left for
 [Ghangaria](https://en.wikipedia.org/wiki/Ghangaria) from Govindghat at
@@ -68,7 +67,7 @@ all along the way. There are a few villages along the way where you can
 get food and refreshments.
 
 ![Govindghat -
-Ghangaria](https://lh3.googleusercontent.com/ja9u7avZ8BlrO2xvaBLGLFnUpwz0OMrg6x5Jagi2UWR1Yt42nZ2Gdq8gkPHL_Hozkfr7ddmVAfTRwcm1Yss-he_Ial_zqEVg5WUjB8Xh6DC5L0VlcZU9I93hmNgaRiL_BYEZs2KqmjYgx0YDoN3KlrLFwDzInF2KfY5gHru-W7dB_YWuhHB-_AhIjzYCCGNel97x8GfIzZzgcuvzuWLPgjTXdNXqJFEv2QIVRAqiaLvkC8Jt56Pkl5ZdTejgPSgTV2cVZyWzVTYL6StVhNgLG2gXr3GrR9oi9NolI8cs_w2w8NNNeVnM_PXs68J1r5WeLlTGwG40FEqG8HIhWSR8pN3HvPh5M2-9_qMFi4zJPtLwW8jmzCpVaYnq4P_n-VvIvW3L68jCvVkNAfKFMxHDMf8cPekTUZiVBh6VjARWzrLCfqsJbaCJsrxGLx5BBYEUtA9JIWFDNZuNNurUSrTVu8rD6iKUJQAfskWPr8ThoLEjX3qaLPhbHn26kSoOPeIPZcI4jt688uXnfmRerRdGLvsDDnQEeSE7OD0_FCNYISI=w899-h674-no)
+Ghangaria](/img/posts/travel_notes_valley_of_flowers_and_hemkund/enroute_ghangaria.jpg)
 
 <p class="center"><em>Enroute Ghangaria</em></p>
 
@@ -78,7 +77,7 @@ flowing stream or taps setup by Uttarakhand Government. It's probably
 cleaner than that bottled water.
 
 ![Pushpavati
-River](https://lh3.googleusercontent.com/MXWAKAc0NU-xE4VrC7Dz6SyrXbDcuvk4ZcU4J1Z3kkzJ12HapaBHwkkaqr03F5ezuyaOsvFaKMF7JerNHQ4Ik5thy2SnkX_fFr4MPEQ8mUIIvK44i4rhoxjG7YxN-gbYkxysKkBpBav9xWUv3GECmaBRg4Wq2VsvWm_xJkVxmoNrCQMt45I6vCOxIYWi1j0Hvw9A4xkfo5apZ2f4BJv8HJvU-_yCrIo-y8Fg0CGwgSrPbciafsN-LTRrnXhoC6PnqSwOwFafdCpSKKq008tqrMRG366ys7wCHsRRr5p-nQAeHOYM2F7FbDd-ejWEjPbZGOoIpB-E5XuL5ZlIGxrR08VBBAnEFrKbGIkkm0up5X4ZmpSNJYl-QKkDVd5Asof5y1EtyqRtDjyAj9HRlqCiuuutKPMpFywSoBlevk1k6ZxD2OFbaJBJt8dy4NjC3zZL6YatsVogLc7VRHIVw1eYhaIhYpeKY0hxsyREm_-gWlRBXUgDmhwJHLLTVO-ZDoGI21_lUoxiuXH3_Miyo_r3I_ABVzpLx7t7zs9k44fK5lE=w899-h674-no)
+River](/img/posts/travel_notes_valley_of_flowers_and_hemkund/pushpavati_river.jpg)
 
 <p class="center"><em>Pushpavati River</em></p>
 
@@ -87,7 +86,7 @@ River](https://lh3.googleusercontent.com/MXWAKAc0NU-xE4VrC7Dz6SyrXbDcuvk4ZcU4J1Z
 gate of VoF which is around half a kilometer away from Ghangaria.
 
 ![Valley of Flowers
-Entrance](https://lh3.googleusercontent.com/DMb0Z4lGIWAuc2qQZvBC3VRemBiOK53PgXRRwyffeMz8381YsLlbkrxydP0jMlH0Z1dqyWTcImt5k-NYFy5RsODtEI0tSfq2x17oClWfMa7G4iPSkZbuxkQS5gd6oXZ2z9x937aEiD7MYvhghJX_BVSodCn-zyac7I-6LqfCX1p8WsEWC0ZHJu-L8T5gRjXRIPJE801ftDfLI8gLIU-g4BpHgDt98b8IY2GIX81S1AaDeKKMkRdeoHy921kJt-vuH3j5cI59I0pp5lNxocUW3v2NYN2Yn9NAVlrGzdAE1_Gf1X3UEaDKUW65jgnsI4F6df-PUdmAhwhWZs4kD9TKnSO-wAOOxNuaE80OTfLNcjeF2enjlQW0LcC022oEKXq480EGgMbfmLlCbwc8C81olNLok1Vnm6YL_cQ7BtmVvC4E5_hc4TKYTXtMHBWApL9lmm_Uca_YdrNLMBTKdfLlQAmBVjwEb-cKBm36Yrnw3uZiNa7PVnmxUx4nxlBZyiHKFaX5fLK_2OGHFmQVFTpjXjeXUp5kgJjRe_AP6BCVO8E=w899-h674-no)
+Entrance](/img/posts/travel_notes_valley_of_flowers_and_hemkund/vof_entrance.jpg)
 
 There is a moderately difficult hike of 3kms from there to Valley. VoF
 has to be one of the most beautiful places in India. It's covered with
@@ -96,7 +95,7 @@ after the flower season and there weren't many flowers to be seen. But even
 without flowers, the valley was extremely beautiful.
 
 ![Start of Valley of
-Flowers](https://lh4.googleusercontent.com/qVWWE3iuT0n2Jv5ovT4lzR28gnb7ItNqLFOfJTkekxTFL37yISV8hmmIhDaFwhJrBU1R0kSMPESBCrabK8gVbXb7XDpi-Rwsnj2z948T-vYHPYKq5qJAbbCT8bMlcXI0-cpJkOkz1aYBfIR2zU9Tymhyul73dtLAiWZZEAy5txlSPlPfMPVpCKjbgLKivOiox9fPf5_J2bJ7gbT1br_K2Lzc2sArBctDdxbS9HkJ7sBUguz1RuYP0qogiHqXjF2Dlq-Yr7P1AdcVTDi51LnI5Rfs6bzoJvIVnpK9GKlyHidKvVN8ny3mygvlpn1PHGveC4wg2sc40EKORaDxeJ8TBlJhAqm948vi7qNB2DDiXC6EXPNMk_jabUJJMyUA24FJr-k9kKodLboX871X3BNkLaMzaQASm90etcov0LHtMmLmj2jHJcmNwPGwle26lNf-JTgMoQIXmfVdk6kXox7UmOXfy-j_FhDAi2iSnUEH2pX6_vXkJhohwptGu4zyGcKCCZ_WaBqefk2TJ00oby8hua-B4N5s=s899-w899-h674-no)
+Flowers](/img/posts/travel_notes_valley_of_flowers_and_hemkund/vof_start.jpg)
 
 <p class="center"><em>Start of Valley of Flowers</em></p>
 
@@ -107,8 +106,7 @@ sunset.
 This is a bit steeper than VoF trek. There's a climb of 6000 feet in 6
 kms. 
 
-![Path to Hemkund
-](https://lh3.googleusercontent.com/hzW0GDpWSpwR-jC7yNbHOgF3_VnWZoVXGtdAeDhpWVew877-fpiDIMCEaYk9PdDp7_A3jsWanN3cBhLfZFGN3pLWM34_I8FZnZPWIoywvAAudXVK2aXgeNpWUsZ6H9s4UY9LuD8E8qNxJxhLUnx39VCgZH1Ft5UowEfeRVYBhtjgspNpxC4fgyXnmzCOp8qB-fRC_keSQdAbVD8GVuMFDt-3EhVusV0Yv2rBxKWJPweqd5joGE21m3jYuGd5BvelNLjq_6bnSGRtCEvUTPwX-Jm7rALKmAE8PGhubSawefVWXny8VPcmZAqCHOkeNHbXMXer0LW2e6OKcoZIAeIUSTUcQL2m17Mcm-okS5D9L1lGg-SH_kowfLki5H8mkX2bG6YJkiG2u8GMLSFkf_VOiR-kWdlPy2azAIS41Cft9c98Tdft01T0HeVoJCKDTenCV30u2w3MycN72UZQfsaJm8n6ftY8Do9fIgv5cEXI2lRTrltQwluC6DEmtp6CFVLqhCmUGGZiJyhUmY8xBCN10I6dKYY6=s899-w899-h674-no)
+![Path to Hemkund](/img/posts/travel_notes_valley_of_flowers_and_hemkund/hemkund_path.jpg)
 
 <p class="center"><em>Path to Hemkund Sahib</em></p>
 
@@ -120,12 +118,11 @@ visit Gurudwara, then you must leave Ghangaria before 8am. It's also
 worth bathing in freezing Hemkund lake which has crystal clear water. 
 The hot khichdi served at langar tastes amazing after you bath in freezing water!
 
-![Hemkund](https://lh3.googleusercontent.com/9zcOgvDfBY5ARKNncbpESkzg6uVZDzffnJ1Z-qBzJUGkQ3zAFy3bZIeZQQWiKhBFWE0MFqzKEeyWCiWiRF4WLiXjGNxwTe8pHBoBh2RiVCreLifrlF-ZmKNQEJ-iOQAayc12Vg6WNu3eqM2eJYWOcHMsh-8YIN-dzddhZa7mFFAnp0aGJ-tEeUmF-XknWbHjkLcBU7St206mdZSYeGs2dBJeVHLFnmZi7YBIpjLu5zGbhX7Qvu2chr8tPXlaq_qlZ6bP7MFQLQj_7fMMe33SwLHLpgr1dDp0gObgZVYufPSIsVP0W1GN6p1-lbRALAbq9PiKgNZ3Pb8KSJE1O0pXgHdWQSlNyvPrwB2Tsq2NhONDB6EVfUoHNnXnfgqwCiww4n6wVgYRIOdgLa0vcsNu4i1eM6COJfOMhkmckGWr2Zrv2IKWavqZy0UojVwkxxnurXbyOu-uMZ5gaDK1W9ZgOBgdfJbkosK9NDB8PUzgK9t_kp7LaFOGn78giEV0vZbH_ALTfVXK_HwiUy-3GYFO1nyZkJHXDmp9WJfr7xrQYhY=w899-h674-no)
+![Hemkund](/img/posts/travel_notes_valley_of_flowers_and_hemkund/hemkund.jpg)
 
 <p class="center"><em>Hemkund</em></p>
 
-![Gurudwara Hemkund
-Sahib](https://lh6.googleusercontent.com/aJZ0CXsqwDQgIs9soOjekXuqeXZEnMWyJ8Bp7Awj0XpRC7W8eu0qaC3f80igYA7Zz4VacQdLNS6cxWeuYHVcb2ynoe3cb8tQAq1Eh1izIanEV5zf7Ir4e7FBt3JNhyZFMgF-FgacDlyOZGIovUGcDC8XQU6488FlPjZyxtfiybiIUjMetahEKIMYNdRSYRXOvZc8l87864rcg9w8Lx8QQ6sM3NopN1gL0AgixuTJO3jAkaDKUv9HN0KjwnpBW7PlnNdCbScAVCddO3c9MhEMQiCnWNLkFwcilsS1IiVYWjTm7R6fHS0q6dKOV-2L38Gf9ek1rSQdTubDRu7qvhanzkEaoHAuy96vd458TZGd4RvGgWIgzVGfhrfVzb_Mgb6oPnVYl813ghtLrW5nEQsneyHmTQYsKRHq8TUR8VlSwRHK_d5qpYhCDjWlfx6_3xaXCKHRLWTlfs10DMV7pIZ6MyzT1tEN6IL3ian06Fa4mSHxS85RuXurB_vPWsjBQHX0UrSNGN0SFJCF1sfFqqye3r718CC3=s899-w899-h674-no)
+![Gurudwara Hemkund Sahib](/img/posts/travel_notes_valley_of_flowers_and_hemkund/gurudwara_hemkund_sahib.jpg)
 
 <p class="center"><em>Gurudwara Hemkund Sahib</em></p>
 
@@ -136,16 +133,14 @@ spent a lot of time that spring which had much better effect than those
 sauna baths in gyms. Also, the temple remains open till 9pm, so some of
 us managed to visit Badrinath temple as well.
 
-![Badrinath
-Temple](https://lh3.googleusercontent.com/sZqqaZ5_lQgYFgdouv2_yts6f-jn1TGB7kveZGtU2gvwuQqNc8QzLu7xv3ShEY7JEe43-t4hfG9PEDTPSgthaOEI_1Xupq5-QqQTP8xSwgIOX2aex0hissIrTzyy3t5IqB76R3Awd8b7WdxAF_lIBrj2AtprCzemn6uX68KWU3zpW0lfD5KuqOQlTLt0etIyb62hwxgUgAP-a4zxfOt_fyX9uxutP4fAYm-cBBoZkQ_0QzZRwBtqIw5ZhFQL4J3lo-Ran5oocaiMKvp9P8WU_jJdiL03NGBHxy-TnVmMQtXSh0L5ltQlCU_syWULI-vLGTKy43dLSWz1AQbTvPYTcj-LVbZ5DdLL3CQquTjSCDEy1G8Qp_XJw5bhGAfsCJCoHAe1dsB2ftpdIk0_fHWa_ML4K8aXp_duBrc_23GRWyxy9UydAyJ8dwr2oL_uMT8lUQzHk4f3Mp-IWS-nRRRtXBlj6tPAA2Go2y6UYfCoKS6nb0DB43jFNJmXOFCfMooOEcYLq9M2MmgjAzhC1IZqm1US3nfGDCKihsU-ru82iAo=w899-h674-no)
+![Badrinath Temple](/img/posts/travel_notes_valley_of_flowers_and_hemkund/badrinath_temple.jpg)
 
 <p class="center"><em>Badrinath Temple</em></p>
 
 **Sept 24th**: We visited Mana Village which is the last Indian village
 on National Highway 58 beyond which lies the Indo-Tibet border area.
 
-![Mana
-Village](https://lh6.googleusercontent.com/L1dbJoAnUVMdpztZ5wiKxTg_lQ6hSMalNHLKnp7VvbZdy08dTro4o57WYLZ6rK1tT3XzHRLDX16bvOuHAozxk_SV3fEhFWiW4FiEP8HG3mGxLsxKoxES59y6Z2oOmmOK90U2EpNRMPJ1plD_87y6bbEWT3Gq8Cn3DeW0uP9KMPWhFjvWQFJSP2W55d4_p2GHxF3zNI37P8PYrWF78he_ey3Mnn41YZsD_s-BYyKoX6cHukV3XQcVRCvf5iZeVQzt-MY-Lj-3pG0xo5Z_DQPfJvCJniB0l11Gkh5FmhLS5iS9iu_BCGaVi49AmDRcsV09j7WsOp7PtaQRRDXQfm0ohMGB5Ar2GPU8G4MBmLkyCSM0hj5OJO4d9tcM7qu2hZe0hp_1RvazVAWo_yFuWXz8k9v17rHzzghzoOLj-i8uwYcPzUP0MkiIVz5VCAfuOl_X41JsEJEUS9XL2Zmuuq4LVTmpFWOFnbfR-ZDs7SO0qaQJju5GpZQ2MxP-Wa-93CZtwAFM1cWZLRX5dTiMicqprXXviEg9=s899-w899-h674-no)
+![Mana Village](/img/posts/travel_notes_valley_of_flowers_and_hemkund/mana_village.jpg)
 
 <p class="center"><em>Mana Village</em></p>
 
