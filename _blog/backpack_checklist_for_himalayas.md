@@ -26,7 +26,7 @@ A minimal backpack (for a week long trip) should have,
 + A thin fleece comforter or shawl
 + Toileteries
 + Medicines
-+ Mixed Dry Fruits - It's best hiking food (100-200 grams for each hiking
++ Mixed Dry Fruits - It's the best hiking food (100-200 grams for each hiking
   day)
 + Laundry bags and extra polyethene bags
 + A sturdy water bottle
