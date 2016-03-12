@@ -6,17 +6,37 @@ lastmod: 2014-03-30 00:00:00
 ---
 
 <p class="message">
-  This page was last updated on 31<sup>st</sup> January, 2015.
+  This page was last updated on 12<sup>th</sup> March, 2016.
 </p>
+
+##Summary
+
+I am a senior software engineer with over 6 years of experience in
+building large scale web applications, and deploying and scaling them. I
+am proficient in ruby, javascript frameworks and devops.
 
 
 ##Work Experience
 
 -----------------
 
+
+###[Popstand Inc](http://www.popstand.com/)
+
+_October, 2015 - Present_ (Ruby on Rails, Node, Backbone.js, Cordova, AWS Lambda)
+
+I am working with Popstand Inc as a lead developer on multiple projects.
+Together, we have built an online site to generate wills and a secure
+mobile and web communication platform for doctors and patients ('Slack
+for doctors'). Presently, we are building a web app for a huge social
+media celebrity which needs to scale to 100s of thousands of users from
+day one.
+
+-----------------
+
 ###[QuizPro / ClassReport](http://quizpro.in)
 
-_(August 2012 - Present)_
+_August, 2012 - Oct, 2015_
 
 QuizPro is an online assessment platform for schools and other educational institutions. It allows students to take assessments from computers, tablets or smartphones. I am also designing an algorithm to predict students' scores.
 
@@ -27,7 +47,7 @@ parents via web and text messages.
 
 ###Karmasoft Inc
 
-_May, 2013 - Present_ (Ruby Programmer + DevOps Engineer)
+_May, 2013 - Jan, 2015_ (Ruby Programmer + DevOps Engineer)
 
 I designed and built an API for a music event discovery iOS app. I scaled and load tested the API to handle 10,000 concurrent requests. Entire app architecture was hosted on AWS (EC2, S3, ElastiCache, RDS, Elastic Load Balancing, Auto Scaling & SES). Presently, I am working on auto-scaling implementation.
 
