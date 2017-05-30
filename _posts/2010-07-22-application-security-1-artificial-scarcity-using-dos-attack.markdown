@@ -16,7 +16,7 @@ Most E-Commerce or online booking websites lock the item/product
 during the purchase process. \[after the customer selects the item
 and proceeds for payment processing\]. This can be exploited by
 launching a massive attack on the site in which bots/scripts
-pretend to buy a product/item and drops out during payment process,
+checkout a product/item and wait out the payment process,
 thereby locking all the items and creating an artificial
 scarcity. 
 
