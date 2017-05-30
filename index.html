@@ -15,5 +15,15 @@ sitemap: true
             </a>
             </li>
         {% endfor %}
+
+        {% assign archived_posts = {site.posts | sort: 'date'} %}
+        {% for post in archived_posts reversed %}
+            <li>
+            <span class="date orange">{{ post.date | date: '%b %d, %Y' }}</span>
+            <a href="{{ post.url }}">
+                {{ post.title }}
+            </a>
+            </li>
+        {% endfor %}
     </ul>
 </div>
