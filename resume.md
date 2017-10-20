@@ -5,8 +5,8 @@ sitemap: true
 lastmod: 2016-04-11 00:00:000
 ---
 
-<p class="message"> This page was last updated on 12<sup>th</sup> March,
-2016.  </p>
+<p class="message"> This page was last updated on 20<sup>th</sup>
+October, 2017.  </p>
 
 ## Summary
 
@@ -19,10 +19,41 @@ am proficient in ruby, javascript frameworks and devops.
 
 -----------------
 
+### PortfolioReport
+
+_August, 2017 - Present_ (Ruby on Rails)
+
+PortfolioReport is a simple app that lets you monitor one or more of
+your equity portfolios and provides with daily, weekly, monthly and
+other periodic reporting.
+
+---------------
+
+### [Jarvis](http://jarvis.jigarpatel.in)
+
+_June, 2017 - Present_ (Ruby on Rails)
+
+Jarvis is a bot that fetches financial market data from NSE and BSE
+servers and then analyses it to generate stock recommendations.
+
+----------------
+
+### [UrbanStack](http://urbanstack.in)
+
+_October, 2016 - May, 2017_ (Ruby on Rails, Ionic)
+
+UrbanStack in an online platform that allows civic bodies to send
+realtime alerts on public transport, water supply and garbage collection
+to citizens, and lets citizens provide their feedback on services. It
+also provides a platform for doctors to report disease cases. Civic
+bodies can monitor and plan diseasse control measures through various reporting
+tools and maps.
+
+-----------------
 
 ### [Popstand Inc](http://www.popstand.com/)
 
-_October, 2015 - Present_ (Ruby on Rails, Node, Backbone.js, Cordova,
+_October, 2015 - September, 2016_ (Ruby on Rails, Node, Backbone.js, Cordova,
 AWS Lambda)
 
 I am working with Popstand Inc as a lead developer on multiple projects.
