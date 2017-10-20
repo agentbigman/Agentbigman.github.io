@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 sitemap: true
-lastmod: 2016-04-11 00:00:000
+lastmod: 2017-10-20 00:00:000
 ---
 
 <p class="message"> This page was last updated on 20<sup>th</sup>
