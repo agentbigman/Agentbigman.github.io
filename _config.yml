@@ -5,15 +5,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Jigar Patel
-tagline:          'Driving fast in a slow lane!'
-description:      "Experiments in life."
+title:            Voyager28
+tagline:          'Through Space & Time!'
+description:      "Galactic Pilgrim"
 
-url:              http://jigarpatel.in
+url:              http://
 
 author:
-  name:           'Jigar Patel'
-  url:            https://github.com/jagira
+  name:           'voyager28'
+  url:            https://github.com/agentbigman
 
 paginate:         5
 
@@ -32,7 +32,7 @@ collections:
 version:          1.0.0
 
 github:
-  repo:           https://github.com/jagira.github.com
+  repo:           https://github.com/agentbigman/agentbigman.github.io
 
 # Gems
 gems:
