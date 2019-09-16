@@ -12,7 +12,7 @@ author: Voyager28
 
 This is a photo post
 
-<img src="C:\Users\Akar\Documents\GitHub\agentbigman.github.io\img\posts\Photo_Post\0l34ntgnfnd01.jpg" alt="Superman" style="zoom: 25%;" />
+<img src="https://github.com/agentbigman/agentbigman.github.io/blob/master/img/posts/Photo_Post/0l34ntgnfnd01.jpg"/>
 
 
 
