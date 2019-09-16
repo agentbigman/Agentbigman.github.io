@@ -22,7 +22,7 @@ https://youtu.be/PaErPyEnDvk
 
 This is an embedded Youtube link - 
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/PaErPyEnDvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="333" src="https://www.youtube.com/embed/PaErPyEnDvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is a flickr link - 
 
@@ -42,7 +42,6 @@ This is an embedded reddit link -
 <script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
 
 
-
 This is a twitter link - 
 
 https://twitter.com/PenguinIndia/status/1173487267521785858
@@ -51,6 +50,5 @@ This is an embedded twitter link -
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Delhi?src=hash&amp;ref_src=twsrc%5Etfw">#Delhi</a>: Join us for the book launch of <a href="https://twitter.com/hashtag/EconomicSutra?src=hash&amp;ref_src=twsrc%5Etfw">#EconomicSutra</a> by <a href="https://twitter.com/satishydeodhar?ref_src=twsrc%5Etfw">@satishydeodhar</a> TODAY!<a href="https://twitter.com/IIMAhmedabad?ref_src=twsrc%5Etfw">@IIMAhmedabad</a> <a href="https://t.co/wsknRRtfao">pic.twitter.com/wsknRRtfao</a></p>&mdash; Penguin India (@PenguinIndia) <a href="https://twitter.com/PenguinIndia/status/1173487267521785858?ref_src=twsrc%5Etfw">September 16, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
