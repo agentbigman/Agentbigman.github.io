@@ -1,6 +1,6 @@
 ---
 date: '2019-09-16 10:38'
-title: Photo Post
+title: Photo_Post
 layout: post
 author: Voyager28
 
