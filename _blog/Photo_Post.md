@@ -12,12 +12,12 @@ author: Voyager28
 
 This is a photo post
 
-<img src="https://github.com/agentbigman/agentbigman.github.io/blob/master/img/posts/Photo_Post/0l34ntgnfnd01.jpg"/>
+<img src="/img/posts/Photo_Post/0l34ntgnfnd01.jpg"/>
 
 
 
 This is another image. 
 
-![Landscape](C:\Users\Akar\Documents\GitHub\agentbigman.github.io\img\posts\Photo_Post\shekar-dzong-1933 nicholas roerich.jpg)
+![Landscape](/img/posts/Photo_Post/shekar-dzong-1933-nicholas-roerich.jpg)
 
 End of the post. 
