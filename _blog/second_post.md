@@ -11,7 +11,7 @@ Let me post some photos locally.
 
 Here’s one portrait. 
 
-![Superman Portrait]<img src="\img\posts\second_post\Superman.jpg" alt="Superman Portrait" width="50%"/>
+<img src="\img\posts\second_post\Superman.jpg" alt="Superman Portrait" width="50"/>
 
 Here’s a Landscape.
 
