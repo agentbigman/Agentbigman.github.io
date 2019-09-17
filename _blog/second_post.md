@@ -11,11 +11,11 @@ Let me post some photos locally.
 
 Here’s one portrait. 
 
-![Superman Portrait](\img\posts\second_post\Superman.jpg =250x))
+![Superman Portrait](\img\posts\second_post\Superman.jpg)
 
 Here’s a Landscape.
 
-![Landscape](\img\posts\second_post\Landscape.jpg =250x))
+![Landscape](\img\posts\second_post\Landscape.jpg)
 
 End of post.
 
