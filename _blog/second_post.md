@@ -13,3 +13,8 @@ Here’s one portrait.
 
 ![Superman Portrait](\img\posts\second_post\Superman.jpg)
 
+Here’s a Landscape.
+
+![Landscape]((\img\posts\second_post\Landscape.jpg))
+
+End of post.
