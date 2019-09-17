@@ -15,6 +15,7 @@ Here’s one portrait.
 
 Here’s a Landscape.
 
-![Landscape]((\img\posts\second_post\Landscape.jpg))
+![Landscape](\img\posts\second_post\Landscape.jpg)
 
 End of post.
+
