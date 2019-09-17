@@ -18,4 +18,3 @@ Here’s a Landscape.
 ![Landscape](\img\posts\second_post\Landscape.jpg)
 
 End of post.
-
