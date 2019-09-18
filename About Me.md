@@ -13,11 +13,11 @@ Twitter:
 
 Instagram: 
 
-:email: 
+📧 
 
 
 
-
+ 
 
 
 
