@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About Me 🚀 
 sitemap: true
 lastmod: 2019-09-15 00:00:000
 ---
@@ -14,14 +14,7 @@ Twitter:
 Instagram: 
 
 📧
-📥
-📤
-✉️
-📨
-📯
-📪
-📬
-📭
+
 
 
 
