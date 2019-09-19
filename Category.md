@@ -8,9 +8,9 @@ lastmod: 2019-09-15 00:00:00
 
 ## Some of the things I currently like - 
 
-🎙Podcasts - [A List of podcasts I listen to regularly](https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b ) 
+🎤 Podcasts - [A List of podcasts I listen to regularly](https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b ) 
 
-🎵 Music - A playlist I’ve been looping to since a few weeks - [Alan Watts infused with some chill music](https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b )
+🎵 Music - On loop since a few weeks -  [Alan Watts infused with some chill music](https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b )
 
 📺 Television - Altered Carbon, Big in France, The Detour.
 
